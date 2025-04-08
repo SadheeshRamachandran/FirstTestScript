@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-07T14:04:43 IST" name="MyTestSuite" finished-at="2025-04-07T14:04:44 IST" duration-ms="433">
+    <groups>
+    </groups>
+    <test started-at="2025-04-07T14:04:43 IST" name="MyTest" finished-at="2025-04-07T14:04:44 IST" duration-ms="433">
+      <class name="test.First_Test_Class">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.First_Test_Class@477b4cdf]" started-at="2025-04-07T14:04:43 IST" name="setUp" finished-at="2025-04-07T14:04:44 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="First_Test_Case_Method()[pri:0, instance:test.First_Test_Class@477b4cdf]" started-at="2025-04-07T14:04:44 IST" name="First_Test_Case_Method" finished-at="2025-04-07T14:04:44 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- First_Test_Case_Method -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.First_Test_Class@477b4cdf]" started-at="2025-04-07T14:04:44 IST" name="tearDown" finished-at="2025-04-07T14:04:44 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.First_Test_Class -->
+      <class name="test.Second_Test_Class">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:test.Second_Test_Class@1e800aaa]" started-at="2025-04-07T14:04:44 IST" name="setUp" finished-at="2025-04-07T14:04:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Second_Test_Case_Method()[pri:0, instance:test.Second_Test_Class@1e800aaa]" started-at="2025-04-07T14:04:44 IST" name="Second_Test_Case_Method" finished-at="2025-04-07T14:04:44 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Second_Test_Case_Method -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.Second_Test_Class@1e800aaa]" started-at="2025-04-07T14:04:44 IST" name="tearDown" finished-at="2025-04-07T14:04:44 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.Second_Test_Class -->
+    </test> <!-- MyTest -->
+  </suite> <!-- MyTestSuite -->
+</testng-results>
